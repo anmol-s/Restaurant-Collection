@@ -1,5 +1,6 @@
 # RESTAURANT COLLECTION PROGRAM
 
+
 ##### MAIN PROGRAM (CONTROLLER)
 
 def restaurants():  # nothing -> interaction
