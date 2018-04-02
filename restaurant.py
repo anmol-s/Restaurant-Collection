@@ -8,7 +8,7 @@ def restaurants():  # nothing -> interaction
     print("Welcome to the restaurants program!")
     our_rests = collection_new()
     our_rests = handle_commands(our_rests)
-    print("\nThank you.  Good-bye.")
+    print("\nThank you. Good-bye.")
 
 MENU = """
 Restaurant Collection Program --- Choose one
